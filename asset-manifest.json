@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tut-reactdnd-knight/static/css/main.dba7072e.chunk.css",
+    "main.js": "/tut-reactdnd-knight/static/js/main.c4accd8f.chunk.js",
+    "main.js.map": "/tut-reactdnd-knight/static/js/main.c4accd8f.chunk.js.map",
+    "runtime~main.js": "/tut-reactdnd-knight/static/js/runtime~main.8a517288.js",
+    "runtime~main.js.map": "/tut-reactdnd-knight/static/js/runtime~main.8a517288.js.map",
+    "static/js/2.195ad2d1.chunk.js": "/tut-reactdnd-knight/static/js/2.195ad2d1.chunk.js",
+    "static/js/2.195ad2d1.chunk.js.map": "/tut-reactdnd-knight/static/js/2.195ad2d1.chunk.js.map",
+    "index.html": "/tut-reactdnd-knight/index.html",
+    "precache-manifest.99adca28779c75d599c5e31291d9c68e.js": "/tut-reactdnd-knight/precache-manifest.99adca28779c75d599c5e31291d9c68e.js",
+    "service-worker.js": "/tut-reactdnd-knight/service-worker.js",
+    "static/css/main.dba7072e.chunk.css.map": "/tut-reactdnd-knight/static/css/main.dba7072e.chunk.css.map",
+    "static/media/logo.svg": "/tut-reactdnd-knight/static/media/logo.5d5d9eef.svg"
+  }
+}
